@@ -20,8 +20,10 @@ Modulo para realizar login
 
 # II - Dependências
 
-    commons_dependencies:
-    	path: "../commons_dependencies"
+	commons_dependencies:
+	git:
+		url: https://github.com/toshiossada/microapp_commons_dependencies.git
+		ref: v1.0.0
 
 
   
